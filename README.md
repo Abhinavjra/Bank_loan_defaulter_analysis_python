@@ -1,7 +1,7 @@
 # Bank_loan_defaulter_analysis_python
 Loan defaulter data analysis with the help of python.
 
-# Download data from kaggle
+# Download dataset from kaggle
 https://www.kaggle.com/datasets/gauravduttakiit/loan-defaulter/data
 
 # All the analysis
